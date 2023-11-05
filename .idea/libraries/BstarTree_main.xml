@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="BstarTree-main">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/../BstarTree-main/out/artifacts/BstarTree_main_jar/BstarTree-main.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
